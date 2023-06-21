@@ -22,8 +22,7 @@ aside {
     position: absolute;
     top: 0px;
     left: 0;
-    bottom: 0;
-    height: 100%;
+    height: 900px
 }
 
 aside h2 {
@@ -77,8 +76,7 @@ body {
 }
 
 .grid-item {
-    position: static;
-    left: 50px;
+    margin-left: 150px;
     background-color: #fff;
     padding: 20px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
